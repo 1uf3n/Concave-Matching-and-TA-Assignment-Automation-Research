@@ -1,4 +1,4 @@
-# Concave-Matching-and-TA-Assignment-Automation-Research
+# Concave Matching and TA Assignment Automation Research
 
 ## Project Overview
 
